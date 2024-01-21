@@ -1,0 +1,14 @@
+table,th,td{
+    border: 2px solid black;
+ }
+ h1{
+    font-size: 50px;
+    color: blue;
+ }
+ h2{
+    font-size: 40px;
+    color: yellowgreen;
+ }
+ p{
+    font-size: 30px;
+ }
